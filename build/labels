@@ -2,6 +2,6 @@
 	BASIC	= $801
 	BORDERCOLOR	= $d021
 	SCREENRAM	= $400
-	hello	= $824	; ?
-	character_loop	= $819
+	hello	= $821	; ?
+	character_loop	= $817
 	entry	= $80d	; ?
